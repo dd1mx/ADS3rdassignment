@@ -83,7 +83,7 @@ public class BST<K extends Comparable<K>, V> {
         if (root == null) {
             return;
         }
-
+//comment for push
         Node current = root;
 
         while (current != null) {

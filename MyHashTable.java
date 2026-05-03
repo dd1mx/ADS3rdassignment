@@ -14,7 +14,7 @@ public class MyHashTable<K, V> {
             return "{" + key + " " + value + "}";
         }
     }
-
+    //comment for push
     private HashNode<K, V>[] array;
     private int M = 13;
     private int size;

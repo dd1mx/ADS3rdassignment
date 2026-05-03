@@ -49,7 +49,7 @@ public class Main {
         }
 
         System.out.println("Размер таблицы: " + table.size());
-        System.out.println("\n--- Статистика бакетов ---");
+        System.out.println("\n-- Статистика бакетов --");
         table.printBucketSizes();
     }
 
